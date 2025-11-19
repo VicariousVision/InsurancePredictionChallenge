@@ -1,0 +1,22 @@
+# ignore data files
+*.csv
+
+# Python & environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
